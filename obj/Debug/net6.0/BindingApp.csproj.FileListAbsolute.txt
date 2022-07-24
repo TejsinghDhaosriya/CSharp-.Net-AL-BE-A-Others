@@ -1,0 +1,15 @@
+C:\Users\tej\workArea\Asp.Net\BindingApp\bin\Debug\net6.0\BindingApp.exe
+C:\Users\tej\workArea\Asp.Net\BindingApp\bin\Debug\net6.0\BindingApp.deps.json
+C:\Users\tej\workArea\Asp.Net\BindingApp\bin\Debug\net6.0\BindingApp.runtimeconfig.json
+C:\Users\tej\workArea\Asp.Net\BindingApp\bin\Debug\net6.0\BindingApp.dll
+C:\Users\tej\workArea\Asp.Net\BindingApp\bin\Debug\net6.0\BindingApp.pdb
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.csproj.AssemblyReference.cache
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.AssemblyInfoInputs.cache
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.AssemblyInfo.cs
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.csproj.CoreCompileInputs.cache
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.dll
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\refint\BindingApp.dll
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.pdb
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\BindingApp.genruntimeconfig.cache
+C:\Users\tej\workArea\Asp.Net\BindingApp\obj\Debug\net6.0\ref\BindingApp.dll
